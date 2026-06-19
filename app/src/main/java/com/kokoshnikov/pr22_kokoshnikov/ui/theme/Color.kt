@@ -1,4 +1,4 @@
-package com.abdulaziz.pr22_mirzakamilov_pr23103.ui.theme
+package com.kokoshnikov.pr22_kokoshnikov.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
