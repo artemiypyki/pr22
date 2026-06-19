@@ -1,4 +1,4 @@
-package com.abdulaziz.pr22_mirzakamilov_pr23103
+package com.kokoshnikov.pr22_kokoshnikov
 
 import android.content.Context
 import android.os.Bundle
@@ -19,7 +19,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.abdulaziz.pr22_mirzakamilov_pr23103.model.MemoryCard
+import com.kokoshnikovz.pr22_kokoshnikov.model.MemoryCard
 import kotlinx.coroutines.delay
 
 class MainActivity : ComponentActivity() {
