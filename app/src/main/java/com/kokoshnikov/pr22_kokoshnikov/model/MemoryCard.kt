@@ -1,4 +1,4 @@
-package com.abdulaziz.pr22_mirzakamilov_pr23103.model
+package com.kokoshnikov.pr22_kokoshnikov
 
 data class MemoryCard(
 
